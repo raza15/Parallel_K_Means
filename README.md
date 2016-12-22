@@ -1,1 +1,1 @@
-# Parallel Implementation of K Means Algorithm using Message Passing Paradigm (MPI) in C++
+# Parallel Implementation of K Means Clustering Algorithm using Message Passing Paradigm (MPI) in C++
