@@ -1,10 +1,8 @@
 # Parallel Implementation of K Means Clustering Algorithm using Message Passing Paradigm (MPI) in C++
 
-To run the parallel code:
+To run the parallel code for various number of threads, go to the Code directory and run the bash file:
 ```
-$ mpic++ parallel.cpp -o parallel
-
-$ mpirun -np $c ./parallel
+$ bash bash.sh
 ```
 
 To run the serial code:
