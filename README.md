@@ -14,3 +14,11 @@ $ g++ serial.cpp -o serial
 
 $ ./serial
 ```
+# Project Report
+
+![alt tag](images/Project Report - Parallel-1.jpg)
+![alt tag](images/Project Report - Parallel-2.jpg)
+![alt tag](images/Project Report - Parallel-3.jpg)
+![alt tag](images/Project Report - Parallel-4.jpg)
+![alt tag](images/Project Report - Parallel-5.jpg)
+![alt tag](images/Project Report - Parallel-6.jpg)
