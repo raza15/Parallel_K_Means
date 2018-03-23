@@ -14,7 +14,7 @@ $ ./serial
 ```
 # Project Report
 
-![alt tag](images/"Project Report - Parallel-1.jpg")
+![alt tag]("images/Project Report - Parallel-1.jpg")
 
 ![alt tag](images/Project Report - Parallel-2.jpg)
 
