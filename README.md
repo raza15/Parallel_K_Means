@@ -16,12 +16,12 @@ $ ./serial
 
 ![alt tag](images/Project%20Report%20-%20Parallel-1.jpg)
 
-![alt tag](images/Project Report - Parallel-2.jpg)
+![alt tag](images/Project%20Report%20-%20Parallel-2.jpg)
 
-![alt tag](images/Project Report - Parallel-3.jpg)
+![alt tag](images/Project%20Report%20-%20Parallel-3.jpg)
 
-![alt tag](images/Project Report - Parallel-4.jpg)
+![alt tag](images/Project%20Report%20-%20Parallel-4.jpg)
 
-![alt tag](images/Project Report - Parallel-5.jpg)
+![alt tag](images/Project%20Report%20-%20Parallel-5.jpg)
 
-![alt tag](images/Project Report - Parallel-6.jpg)
+![alt tag](images/Project%20Report%20-%20Parallel-6.jpg)
